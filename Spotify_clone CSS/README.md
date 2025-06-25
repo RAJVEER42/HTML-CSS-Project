@@ -34,7 +34,7 @@ project/
 - Google Fonts (Montserrat)
 
 ## 📸 Preview
-![Spotify Clone Screenshot](./assests/Spotify_page.png) <!-- Replace this with your own screenshot if needed -->
+![Spotify Clone Screenshot](./assests/Spotify_page.png)
 
 ---
 
