@@ -44,6 +44,8 @@ project/
 
 ~ by Rajveer
 
-> 🧠💻 **"There are two ways to write error-free programs; only the third one works."**  
+>  **"There are two ways to write error-free programs; only the third one works."**  
 > — *Alan J. Perlis*
+---
+> **Without music, life would be a mistake.**
 
