@@ -38,9 +38,7 @@ project/
 
 ---
 
-⭐ Feel free to fork, star, or contribute! This is just the beginning—more advanced responsive UIs and interactivity are coming soon.
-
-- for the community ✨ 
+⭐ Feel free to fork, star, or contribute!
 
 ~ by Rajveer
 
