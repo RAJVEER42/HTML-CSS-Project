@@ -33,7 +33,8 @@ project/
 - Font Awesome (for icons)
 - Google Fonts (Montserrat)
 
-## 📸 Preview
+<h1 align="center"> 📸 Preview </h1>  
+  
 ![Spotify Clone Screenshot](Spotify_clone%20CSS/assests/Spotify_page.png)
 
 ---
