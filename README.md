@@ -2,7 +2,7 @@
 This repo is part of my journey to go beyond basic HTML and CSS—exploring advanced, responsive, and creative web layouts. It reflects my deep dive into front-end concepts and real-world UI/UX to build polished, production-ready designs.
 
 
-# 🎧 Spotify Clone – Responsive HTML & CSS Project
+<h1 align="center"> 🎧 Spotify Clone – Responsive HTML & CSS Project </h1>
 
 This project is a responsive clone of the Spotify Web Player, created using only HTML and CSS. It's part of my journey to move beyond basic front-end skills and dive deeper into layout systems, responsive design, and interactive UI elements.
 
